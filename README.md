@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denish-ranpariya&label=Profile%20views&color=0e75b6&style=flat" alt="denish-ranpariya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denish-ranpariya" alt="denish-ranpariya" /></a> </p>
-
 - 🔭 I’m currently working on [Bon Appetit](https://github.com/Denish-Ranpariya/bon_appetit)
 
 - 🌱 I’m currently learning **Python, Django**
@@ -36,5 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denish-ranpariya&show_icons=true&locale=en" alt="denish-ranpariya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denish-ranpariya&" alt="denish-ranpariya" /></p>
-
 
