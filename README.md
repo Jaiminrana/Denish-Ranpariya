@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Denish Ranpariya</h1>
-<h3 align="center">Btech Student | Computer Engineering | Flutter Enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denish-ranpariya&label=Profile%20views&color=0e75b6&style=flat" alt="denish-ranpariya" /> </p>
+<h3 align="center">B.Tech Student | Computer Engineering | Flutter Enthusiast</h3>
 
 - 🔭 I’m currently working on [Bon Appetit](https://github.com/Denish-Ranpariya/bon_appetit)
 
 - 🌱 I’m currently learning **Python, Django**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Denish-Ranpariya/](https://github.com/Denish-Ranpariya/)
 
 - 💬 Ask me about **Flutter**
 
@@ -19,11 +15,11 @@
 <p align="left">
 <a href="https://twitter.com/thisisdenish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thisisdenish" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/denish-ranpariya-428478167" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="denish-ranpariya-428478167" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucfghjibxkzngjaorfpfqv7q/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucfghjibxkzngjaorfpfqv7q/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/channel/ucfghjibxkzngjaorfpfqv7q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="channel/ucfghjibxkzngjaorfpfqv7q" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/denish_1512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="denish_1512" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/denish_1512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="denish_1512" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ranpariyadenish1512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ranpariyadenish1512" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/denish1512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="denish1512" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/denish1512/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="denish1512/practice/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,4 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denish-ranpariya&show_icons=true&locale=en" alt="denish-ranpariya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denish-ranpariya&" alt="denish-ranpariya" /></p>
+
+
 
