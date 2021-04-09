@@ -13,13 +13,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thisisdenish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thisisdenish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/denish-ranpariya-428478167" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="denish-ranpariya-428478167" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel/ucfghjibxkzngjaorfpfqv7q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="channel/ucfghjibxkzngjaorfpfqv7q" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/denish_1512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="denish_1512" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/denish_1512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="denish_1512" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ranpariyadenish1512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ranpariyadenish1512" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/denish1512/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="denish1512/practice/" height="30" width="40" /></a>
+<a href="https://twitter.com/thisisdenish" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thisisdenish" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/denish-ranpariya-428478167" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="denish-ranpariya-428478167" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCfgHJIBxKZNgJAOrFPFqV7Q" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="channel/ucfghjibxkzngjaorfpfqv7q" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/denish_1512" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="denish_1512" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/denish_1512" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="denish_1512" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ranpariyadenish1512" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ranpariyadenish1512" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/denish1512/practice/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="denish1512/practice/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
