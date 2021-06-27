@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ranpariyadenish1512@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PZHVHJ8iY283uirxJljFNpCXV4o_U0HJ/view?usp=sharing](https://drive.google.com/file/d/1PZHVHJ8iY283uirxJljFNpCXV4o_U0HJ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cXKuWVkkKm94WJBGOE3rP6XgP_CWTb9f/view?usp=sharing](https://drive.google.com/file/d/1cXKuWVkkKm94WJBGOE3rP6XgP_CWTb9f/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
